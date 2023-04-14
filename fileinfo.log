@@ -1,0 +1,35 @@
+2023-03-09 00:29:07,833 :CRITICAL : pytestsDemo.test_logging :critical conditions in code
+2023-03-09 00:29:28,291 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2023-03-09 00:29:28,291 :INFO : pytestsDemo.test_logging :information not releated to pass/fail
+2023-03-09 00:29:28,291 :WARNING : pytestsDemo.test_logging :any alerts eg:negative amount deduted
+2023-03-09 00:29:28,291 :ERROR : pytestsDemo.test_logging :error info
+2023-03-09 00:29:28,295 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2023-03-09 00:29:28,296 :CRITICAL : pytestsDemo.test_logging :critical conditions in code
+2023-03-09 01:08:52,119 :INFO : pytestsDemo.BaseClass :jerin
+2023-03-09 01:08:52,119 :INFO : pytestsDemo.BaseClass :jerin
+2023-03-09 01:36:31,091 :INFO : test_editProfile :jerin
+2023-03-09 01:36:31,093 :INFO : test_editProfile :lincy
+2023-03-09 01:38:50,858 :INFO : test_editProfile :jerin
+2023-03-09 01:38:50,864 :INFO : test_editProfile :lincy
+2023-03-09 01:38:50,868 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2023-03-09 01:38:50,868 :INFO : pytestsDemo.test_logging :information not releated to pass/fail
+2023-03-09 01:38:50,868 :WARNING : pytestsDemo.test_logging :any alerts eg:negative amount deduted
+2023-03-09 01:38:50,868 :ERROR : pytestsDemo.test_logging :error info
+2023-03-09 01:38:50,868 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2023-03-09 01:38:50,868 :CRITICAL : pytestsDemo.test_logging :critical conditions in code
+2023-03-09 01:45:22,542 :INFO : test_editProfile :jerin
+2023-03-09 01:45:22,544 :INFO : test_editProfile :lincy
+2023-03-09 01:45:22,554 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2023-03-09 01:45:22,555 :INFO : pytestsDemo.test_logging :information not releated to pass/fail
+2023-03-09 01:45:22,555 :WARNING : pytestsDemo.test_logging :any alerts eg:negative amount deduted
+2023-03-09 01:45:22,555 :ERROR : pytestsDemo.test_logging :error info
+2023-03-09 01:45:22,555 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2023-03-09 01:45:22,556 :CRITICAL : pytestsDemo.test_logging :critical conditions in code
+2023-03-09 01:49:45,399 :INFO : test_editProfile :jerin
+2023-03-09 01:49:45,401 :INFO : test_editProfile :lincy
+2023-03-09 01:49:45,404 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2023-03-09 01:49:45,405 :INFO : pytestsDemo.test_logging :information not releated to pass/fail
+2023-03-09 01:49:45,405 :WARNING : pytestsDemo.test_logging :any alerts eg:negative amount deduted
+2023-03-09 01:49:45,405 :ERROR : pytestsDemo.test_logging :error info
+2023-03-09 01:49:45,405 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2023-03-09 01:49:45,405 :CRITICAL : pytestsDemo.test_logging :critical conditions in code
